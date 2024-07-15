@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Browse File</name>
+   <tag></tag>
+   <elementGuidId>8795cd2a-1f36-4868-b074-9a9050085719</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/main/div/main/div/main/div/div/div[1]/div[2]/div/div/div/div/div[1]/div/div[2]/div/div[2]/div[2]/div/div[1]/div/div/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>505a298e-01f7-4958-a99e-c3e56cb93f29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center gap-x-2 text-white  py-[4px] px-[8px] text-xxs rounded-[3px] font-medium css-o55cv1</value>
+      <webElementGuid>6a193839-8261-4734-91ed-3b85d178c837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>28a34829-15eb-4a03-b0da-aac498ad78a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Browse File</value>
+      <webElementGuid>5c16b330-bc0a-4fc3-804e-e001ab2e550a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-mcu-registrasi-perusahaan&quot;)/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/div[@class=&quot;space-y-3&quot;]/div[@class=&quot;bg-white pb-3 pt-1 px-3 shadow-sm rounded-md&quot;]/div[@class=&quot;grid grid-cols-5 gap-5&quot;]/div[@class=&quot;col-span-2 grid grid-cols-1 space-y-3&quot;]/div[1]/div[@class=&quot;flex flex-col&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;w-full&quot;]/div[1]/div[@class=&quot;bg-neutral-50 border border-dashed w-full pb-3 pt-2&quot;]/div[1]/div[@class=&quot;flex justify-center mt-1 gap-x-1&quot;]/button[@class=&quot;flex items-center gap-x-2 text-white  py-[4px] px-[8px] text-xxs rounded-[3px] font-medium css-o55cv1&quot;]</value>
+      <webElementGuid>0cf3b482-c6db-443e-945d-6a33a13ea2bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[8]</value>
+      <webElementGuid>788fd743-aab6-4ee2-ad97-4f05d6f602db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-mcu-registrasi-perusahaan']/div/div[2]/div/div/div/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/div[2]/button</value>
+      <webElementGuid>7e0048fc-c99c-4574-9e3a-86ef9bcc2cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drag &amp; Drop Your File Here'])[1]/following::button[1]</value>
+      <webElementGuid>d65c9682-1c6d-480f-b064-dca34f1ddb14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Template'])[1]/following::button[1]</value>
+      <webElementGuid>1583a38f-4fac-48e4-9932-60e7b7ea00ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Perusahaan'])[1]/preceding::button[1]</value>
+      <webElementGuid>97564f92-9082-4765-964e-7b3777c67ab5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[11]/preceding::button[1]</value>
+      <webElementGuid>2b09a781-1f7c-44da-a87a-e2fa4e64f87d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Browse File']/parent::*</value>
+      <webElementGuid>df428690-f375-4fa8-b8ca-7cd8bbd4ba41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>6a4fe181-e90f-428a-b379-a3e2fedd7284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = ' Browse File' or . = ' Browse File')]</value>
+      <webElementGuid>5965b44e-8b44-45b8-9737-007e19f82d95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

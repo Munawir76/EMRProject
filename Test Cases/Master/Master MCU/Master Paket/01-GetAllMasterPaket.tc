@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01-GetAllMasterPaket</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>12b1bdb4-12b9-4bac-96e7-8f3eec9e57c4</testCaseGuid>
+</TestCaseEntity>

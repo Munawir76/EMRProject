@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01-GetAllDataRegistrasiPersonal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>000c139a-8c4a-4d3f-a00b-4705bdd232d3</testCaseGuid>
+</TestCaseEntity>

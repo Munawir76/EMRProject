@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01-CreateRegistrasiMCUPersonal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ed636a3b-7ae0-40e0-a34c-d13c85501ba7</testCaseGuid>
+</TestCaseEntity>

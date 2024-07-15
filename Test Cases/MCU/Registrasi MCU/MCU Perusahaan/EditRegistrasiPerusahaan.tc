@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>EditRegistrasiPerusahaan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e63d2d7-0a8e-415e-ad18-baad60cf30e8</testCaseGuid>
+</TestCaseEntity>

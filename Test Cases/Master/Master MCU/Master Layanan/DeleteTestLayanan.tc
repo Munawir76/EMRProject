@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DeleteTestLayanan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b2b3992a-b5dc-4da5-80dc-bfb45eea7d4a</testCaseGuid>
+</TestCaseEntity>

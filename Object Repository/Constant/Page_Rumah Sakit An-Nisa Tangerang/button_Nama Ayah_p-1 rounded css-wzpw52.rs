@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Nama Ayah_p-1 rounded css-wzpw52</name>
+   <tag></tag>
+   <elementGuidId>30837e73-1c4e-44bb-b377-fa453de4e04e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.p-1.rounded.css-wzpw52</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[34]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9ad472ee-f315-419b-bbf7-70d2090baa86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-1 rounded css-wzpw52</value>
+      <webElementGuid>0cad41bf-1897-43e6-92b5-5996e8cfa743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>14227d0f-4155-4de2-a0ab-394fae06b2f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;7433d201-a710-4b00-8b15-f1a3529ba401&quot;)/div[@class=&quot;MuiDialog-container MuiDialog-scrollPaper css-ekeie0&quot;]/div[@class=&quot;MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation24 MuiDialog-paper MuiDialog-paperScrollPaper MuiDialog-paperWidthLg MuiDialog-paperFullWidth css-1nhstuc&quot;]/div[@class=&quot;MuiDialogContent-root css-1ty026z&quot;]/div[@class=&quot;simplebar-scrollable-x simplebar-scrollable-y&quot;]/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/table[@class=&quot;w-full relative asha-datatable table-fixed&quot;]/tbody[1]/tr[@class=&quot;border-gray-400 hover:bg-blue-50 py-1 odd:bg-white even:bg-slate-50&quot;]/td[@class=&quot;border border-gray-200 text-xs py-1 px-2 font-medium text-black text-center align-top&quot;]/button[@class=&quot;p-1 rounded css-wzpw52&quot;]</value>
+      <webElementGuid>b7caac38-8c19-4350-bbe1-882bcf2e8d29</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[34]</value>
+      <webElementGuid>27ffd500-9427-4a06-9edb-ba53484791c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='7433d201-a710-4b00-8b15-f1a3529ba401']/div[3]/div/div/div[3]/div/div[2]/div/div/div/table/tbody/tr/td[2]/button</value>
+      <webElementGuid>fd77b843-69ef-4ca0-aacb-0d72e3833f83</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Ayah'])[1]/following::button[1]</value>
+      <webElementGuid>7b81d0ff-7ba4-4313-a134-7ee7b19d05f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Penanggung Jawab'])[1]/following::button[1]</value>
+      <webElementGuid>575a915f-8327-42d6-b319-6df139f592e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(993899) PUTRI SUCI M,AN'])[1]/preceding::button[1]</value>
+      <webElementGuid>46a28358-6788-46d7-a73c-fac936b224a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TNG'])[1]/preceding::button[1]</value>
+      <webElementGuid>e4c073f8-be19-4351-ae4f-f3df835226ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/button</value>
+      <webElementGuid>c1d9ed22-92fc-493b-863a-00a4a47479b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>c0f6448b-f837-4858-b441-95f24ce54aac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01-GetAllAsesmenMedis</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>da01db72-09c5-4508-bdc4-7ed75e16635f</testCaseGuid>
+</TestCaseEntity>

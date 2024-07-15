@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01-GetAllMasterAsesmen</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>28e9e71a-1201-4603-b222-5b2601d26ff5</testCaseGuid>
+</TestCaseEntity>

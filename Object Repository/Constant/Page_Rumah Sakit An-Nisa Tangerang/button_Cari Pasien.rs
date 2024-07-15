@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Cari Pasien</name>
+   <tag></tag>
+   <elementGuidId>2589821b-84f1-4d66-8369-74d2c82eaffe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-mcu-registrasi-perusahaan']/div/div[2]/div/div/div/div/div/div/form/div/div[2]/div/button/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ebd4931c-8f79-404c-9d57-2dcdc5d91bba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-white</value>
+      <webElementGuid>fdd958c2-d176-41d8-8ed7-4633eba45379</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cari Pasien</value>
+      <webElementGuid>b3f26889-67cc-40f2-9d13-ed9281707881</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app-wrapper&quot;)/div[@class=&quot;MuiBox-root css-k008qs&quot;]/main[@class=&quot;MuiBox-root css-guogeh&quot;]/div[@class=&quot;mt-8 wrapper&quot;]/main[1]/div[2]/div[@id=&quot;form-mcu-registrasi-perusahaan&quot;]/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/div[@class=&quot;grid grid-cols-10 gap-2&quot;]/div[@class=&quot;col-span-7&quot;]/div[@class=&quot;bg-white pb-3 pt-1 px-3 shadow-sm rounded-md&quot;]/form[1]/div[@class=&quot;p-2&quot;]/div[@class=&quot;grid grid-cols-1 gap-2 mt-2&quot;]/div[@class=&quot;flex items-center gap-2&quot;]/button[@class=&quot;flex items-center gap-x-2 text-white  py-[4px] px-[8px] text-xxs rounded-[3px] font-medium css-o55cv1&quot;]/button[@class=&quot;text-white&quot;]</value>
+      <webElementGuid>fb24f2e1-b103-43a5-96bc-b12ac51754d2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-mcu-registrasi-perusahaan']/div/div[2]/div/div/div/div/div/div/form/div/div[2]/div/button/button</value>
+      <webElementGuid>bdf3c8c9-26f2-46ea-9975-da4e0eee4e53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Pasien'])[1]/following::button[2]</value>
+      <webElementGuid>43a77180-21c2-4e04-ba8f-2f5883f856dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[16]/following::button[2]</value>
+      <webElementGuid>439fd9fb-11df-4b9f-ac90-6307fe994506</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No RM'])[1]/preceding::button[1]</value>
+      <webElementGuid>1f8bb084-45c6-441c-96a6-569ef7bda0f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cari Pasien']/parent::*</value>
+      <webElementGuid>6ba37cd6-e17b-40b1-a4ee-bb6d75359008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button/button</value>
+      <webElementGuid>09dcfa5c-e386-4cb7-a4e9-02df3ce57ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Cari Pasien' or . = 'Cari Pasien')]</value>
+      <webElementGuid>4bb9ca17-94ef-487c-bc24-0444822cd151</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

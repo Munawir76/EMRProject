@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CreateRegistrasiUsingPaketLayanan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1cc0c892-867c-43b9-9ab0-21a4ef0ce1ad</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01-GetAllMasterForm</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d248ff50-2ae5-444c-ad36-59759b1d0e72</testCaseGuid>
+</TestCaseEntity>

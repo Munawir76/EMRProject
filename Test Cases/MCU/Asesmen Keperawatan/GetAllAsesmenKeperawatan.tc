@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetAllAsesmenKeperawatan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e47de335-2a84-4901-a939-a8d0347de09b</testCaseGuid>
+</TestCaseEntity>

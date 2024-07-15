@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>InputKeteranganDetail</name>
+   <tag></tag>
+   <elementGuidId>61a8a7a9-cebb-4a2f-b8c8-574f6e88a3ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;app-wrapper&quot;]/div/main/div/main/div/div/div[2]/div[1]/div[2]/div/div/div[4]/div/div[1]/form/div/div[3]/div/div[2]/textarea</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ButtonEditTest</name>
+   <tag></tag>
+   <elementGuidId>583b1582-b35b-415c-b522-69d11c19dedd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;app-wrapper&quot;]/div/main/div/main/div/div/div[2]/div[1]/div[2]/div/div/div[4]/div/div[2]/div/div/div/div[1]/div[2]/div/div/div/div/div/div[1]/div/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

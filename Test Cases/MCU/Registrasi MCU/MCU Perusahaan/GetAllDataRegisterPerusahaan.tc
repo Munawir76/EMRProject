@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GetAllDataRegisterPerusahaan</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e5e7b1ad-c9c4-4514-aa9c-75d08e4a74a0</testCaseGuid>
+</TestCaseEntity>
