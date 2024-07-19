@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Helper/SSO-Login/E-medicalRecordV2'))
+WebUI.click(findTestObject('Helper/SSO-Login/Superadmin'))
 
 WebUI.delay(1)
 
-WebUI.click(findTestObject('Helper/SSO-Login/Superadmin'))
+WebUI.click(findTestObject('Helper/SSO-Login/E-medicalRecordV2'))
 

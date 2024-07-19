@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
 
-WebUI.navigateToUrl('http://192.168.0.62:7010/')
+WebUI.navigateToUrl(GlobalVariable.base_url_dev)
 
 WebUI.verifyElementPresent(findTestObject('001-Login/04-VerifyPageLogin'), 2)
 
