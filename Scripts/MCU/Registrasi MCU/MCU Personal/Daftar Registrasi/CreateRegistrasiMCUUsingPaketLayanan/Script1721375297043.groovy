@@ -43,7 +43,7 @@ WebUI.click(findTestObject('MCU/Registrasi MCU/MCU Personal/Input Registrasi/Inp
 
 WebUI.setText(findTestObject('MCU/Registrasi MCU/MCU Personal/Input Registrasi/InputKeteranganCreate'), 'registrasi mcu personal using otomasi')
 
-WebUI.click(findTestObject('MCU/Registrasi MCU/MCU Personal/Input Registrasi/ButtonCariPasien'))
+WebUI.click(findTestObject('MCU/Registrasi MCU/MCU Personal/Input Registrasi/ButtonCariPasienCreate'))
 
 WebUI.delay(2)
 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>RegistrasiLayananPersonal</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3591e3c4-2282-47bc-bc33-03ead1670e9a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ButtonCariPasienCreate</name>
+   <tag></tag>
+   <elementGuidId>fd37d82b-bfbd-4658-8f97-85462cf67d24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;form-mcu-registrasi-perusahaan&quot;]/div[1]/div[2]/div/div/div/div/div[1]/div/form/div/div[2]/div[1]/button/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

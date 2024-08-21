@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Updated User_rounded flex items-cent_bb639c</name>
+   <tag></tag>
+   <elementGuidId>705cf2a1-ed6b-4acb-bc86-30e9cec1a600</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>97eb92f5-799b-4391-9bf3-9d7b24b20ae5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d898e7b3-82ad-4549-87a2-18aa44af785e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded flex items-center justify-center py-1 px-1 w-5 relative  h-5 w-5</value>
+      <webElementGuid>ab83fb9f-44de-4321-a961-c560aeefb312</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Update</value>
+      <webElementGuid>09cb2751-8c91-4d6b-af88-8398125897d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-mcu-registrasi-perusahaan&quot;)/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8 space-y-3 css-efwuvd&quot;]/div[@class=&quot;bg-white pb-3 pt-1 px-3 shadow-sm rounded-md&quot;]/div[@class=&quot;simplebar-scrollable-x simplebar-scrollable-y&quot;]/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/table[@class=&quot;w-full relative asha-datatable table-fixed&quot;]/tbody[1]/tr[@class=&quot;border-gray-400 hover:bg-blue-50 py-1 odd:bg-white even:bg-slate-50&quot;]/td[@class=&quot;border border-gray-200 text-xs py-1 px-2 font-medium text-black text-center align-top&quot;]/div[@class=&quot;flex flex-row justify-center items-center gap-1&quot;]/button[@class=&quot;rounded flex items-center justify-center py-1 px-1 w-5 relative  h-5 w-5&quot;]</value>
+      <webElementGuid>898260b2-ec78-48ee-880d-663e1d8ee0e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[5]</value>
+      <webElementGuid>3af25742-98ca-4fe6-b84a-f89c35009e47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-mcu-registrasi-perusahaan']/div/div[2]/div/div/div/div[2]/div/div[3]/div[2]/div/div[2]/div/div/div/table/tbody/tr/td[2]/div/button[2]</value>
+      <webElementGuid>7fea6636-9bb1-44d6-9502-32787d622bb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Updated User'])[1]/following::button[2]</value>
+      <webElementGuid>8a9af270-e790-4efd-aa95-fc6d95b3feb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Updated Date'])[1]/following::button[2]</value>
+      <webElementGuid>a6ac93e2-0d04-40fd-857f-6e86d044979f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RAHMAWATI'])[1]/preceding::button[1]</value>
+      <webElementGuid>4c031117-2eec-4570-b87c-56c26071f15f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktif'])[1]/preceding::button[1]</value>
+      <webElementGuid>e3a9b0cf-a2e2-47bd-b70a-82cdc307319b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/button[2]</value>
+      <webElementGuid>c4ee9efb-068a-4190-b3a7-f869f83a5538</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button']</value>
+      <webElementGuid>696149f2-b1b5-4d0c-8428-b9dea499c4b7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

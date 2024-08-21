@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Kata Kunci</name>
+   <tag></tag>
+   <elementGuidId>a7b3615f-1cf8-45e0-86aa-cbc85198445a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='form-mcu-registrasi-perusahaan']/div/div[2]/div/div/div/div[2]/div/div[2]/form/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.form-group.grid.grid-cols-12.gap-x-2.items-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ada1dfa8-cf4a-4020-b328-ec6ac9853940</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-group grid grid-cols-12 gap-x-2 items-center</value>
+      <webElementGuid>66080f97-d9ca-4bfc-8075-fdbe30ec3a81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kata Kunci:</value>
+      <webElementGuid>b94c4349-af3e-4087-8442-7e64cee4bb05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form-mcu-registrasi-perusahaan&quot;)/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2 css-isbt42&quot;]/div[@class=&quot;MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 MuiGrid-grid-md-8 space-y-3 css-efwuvd&quot;]/div[@class=&quot;bg-white shadow rounded p-3&quot;]/form[1]/div[@class=&quot;grid grid-cols-3 gap-2&quot;]/div[@class=&quot;form-group grid grid-cols-12 gap-x-2 items-center&quot;]</value>
+      <webElementGuid>daa5eb08-317c-4af0-b820-558de4e5c06b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='form-mcu-registrasi-perusahaan']/div/div[2]/div/div/div/div[2]/div/div[2]/form/div/div</value>
+      <webElementGuid>45ed7fa6-e1c8-45eb-bf8e-a73f38e57df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buat Registrasi'])[1]/following::div[3]</value>
+      <webElementGuid>7770e919-df0f-419b-b78c-d465ac5c2af8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Daftar Registrasi MCU Personal'])[1]/following::div[31]</value>
+      <webElementGuid>948eaeda-21ca-4215-8289-2d08e26db1eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div</value>
+      <webElementGuid>62537301-ad08-45b4-84a7-6f9879c9c087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Kata Kunci:' or . = 'Kata Kunci:')]</value>
+      <webElementGuid>2176d25c-faff-4e47-95ff-ec0bdd7bcfcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
