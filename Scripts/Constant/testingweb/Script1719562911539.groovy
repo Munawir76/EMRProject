@@ -17,3 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('http://192.168.0.62:7010/auth/signin')
+
+WebUI.setText(findTestObject('Object Repository/Constant/Page_Sign In/input_NIK_nik'), '12345')
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Constant/Page_Sign In/input_Kata Sandi_kata-sandi'), 'byQhuHhORutkR/qQEDRmlw==')
+
+WebUI.sendKeys(findTestObject('Object Repository/Constant/Page_Sign In/input_Kata Sandi_kata-sandi'), Keys.chord(Keys.ENTER))
+
+WebUI.click(findTestObject('Object Repository/Constant/Page_Sign In/p_E-Medical Record V2'))
+
+WebUI.click(findTestObject('Object Repository/Constant/Page_Rumah Sakit An-Nisa Tangerang/span_Medical Check Up'))
+
+WebUI.click(findTestObject('Object Repository/Constant/Page_Rumah Sakit An-Nisa Tangerang/span_Registrasi MCU'))
+
+WebUI.click(findTestObject('Object Repository/Constant/Page_Rumah Sakit An-Nisa Tangerang/span_Registrasi MCU Personal'))
+
+WebUI.click(findTestObject('Object Repository/Constant/Page_Rumah Sakit An-Nisa Tangerang/span_Daftar Registrasi MCU Personal'))
+
+WebUI.setText(findTestObject('Object Repository/Constant/Page_Rumah Sakit An-Nisa Tangerang/input__search_key'), 'rahma')
+
+WebUI.click(findTestObject('Object Repository/Constant/Page_Rumah Sakit An-Nisa Tangerang/button_Cari'))
+
+WebUI.click(findTestObject('Object Repository/Constant/Page_Rumah Sakit An-Nisa Tangerang/button_Updated User_rounded flex items-cent_bb639c'))
+

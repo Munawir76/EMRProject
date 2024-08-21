@@ -41,12 +41,6 @@ WebUI.sendKeys(findTestObject('Master/Master MCU/Master Paket/InputJenisPaketCre
 
 WebUI.delay(1)
 
-WebUI.setText(findTestObject('Master/Master MCU/Master Paket/InputGudangCreate'), 'bank darah')
-
-WebUI.sendKeys(findTestObject('Master/Master MCU/Master Paket/InputGudangCreate'), Keys.chord(Keys.ENTER))
-
-WebUI.delay(1)
-
 WebUI.setText(findTestObject('Master/Master MCU/Master Paket/InputTarifCBGCreate'), 'konsultasi')
 
 WebUI.sendKeys(findTestObject('Master/Master MCU/Master Paket/InputTarifCBGCreate'), Keys.chord(Keys.ENTER))

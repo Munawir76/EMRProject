@@ -21,23 +21,23 @@ WebUI.callTestCase(findTestCase('Master/Master MCU/Master Paket/02-DetailMasterP
 
 WebUI.delay(2)
 
-WebUI.click(findTestObject('Master/Master MCU/Master Paket/01-Input-Form-Tarif/input_Harga Beli_r10'))
+WebUI.click(findTestObject('Master/Master MCU/Master Paket/Input-Form-Tarif/input_Harga Beli_r10'))
 
-WebUI.clearText(findTestObject('Master/Master MCU/Master Paket/01-Input-Form-Tarif/input_Harga Beli_r10'))
+WebUI.clearText(findTestObject('Master/Master MCU/Master Paket/Input-Form-Tarif/input_Harga Beli_r10'))
 
-WebUI.setText(findTestObject('Master/Master MCU/Master Paket/01-Input-Form-Tarif/input_Harga Beli_r10'), '200000')
+WebUI.setText(findTestObject('Master/Master MCU/Master Paket/Input-Form-Tarif/input_Harga Beli_r10'), '200000')
 
-WebUI.click(findTestObject('Master/Master MCU/Master Paket/01-Input-Form-Tarif/input_Harga Jual_r11'))
+WebUI.click(findTestObject('Master/Master MCU/Master Paket/Input-Form-Tarif/input_Harga Jual_r11'))
 
-WebUI.setText(findTestObject('Master/Master MCU/Master Paket/01-Input-Form-Tarif/input_Harga Jual_r11'), '300000')
+WebUI.setText(findTestObject('Master/Master MCU/Master Paket/Input-Form-Tarif/input_Harga Jual_r11'), '300000')
 
-WebUI.click(findTestObject('Master/Master MCU/Master Paket/01-Input-Form-Tarif/input_Harga Beli_r12'))
+WebUI.click(findTestObject('Master/Master MCU/Master Paket/Input-Form-Tarif/input_Harga Beli_r12'))
 
-WebUI.setText(findTestObject('Master/Master MCU/Master Paket/01-Input-Form-Tarif/input_Harga Beli_r12'), '400000')
+WebUI.setText(findTestObject('Master/Master MCU/Master Paket/Input-Form-Tarif/input_Harga Beli_r12'), '400000')
 
-WebUI.click(findTestObject('Master/Master MCU/Master Paket/01-Input-Form-Tarif/input_Harga Jual_r13'))
+WebUI.click(findTestObject('Master/Master MCU/Master Paket/Input-Form-Tarif/input_Harga Jual_r13'))
 
-WebUI.setText(findTestObject('Master/Master MCU/Master Paket/01-Input-Form-Tarif/input_Harga Jual_r13'), '500000')
+WebUI.setText(findTestObject('Master/Master MCU/Master Paket/Input-Form-Tarif/input_Harga Jual_r13'), '500000')
 
 WebUI.setText(findTestObject(null), '')
 
